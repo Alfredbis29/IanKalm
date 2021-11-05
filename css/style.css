@@ -1,0 +1,30 @@
+#main {
+  background-color: rgb(210, 222, 245);
+  width: 100wh;
+  /* height: 100vh; */
+}
+
+#title-conatiner {
+  background-color: grey;
+  height: 20vh;
+  width: 100wh;
+}
+
+#title {
+  padding-top: 1em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3em;
+}
+
+#img-div {
+  margin-top: 5%;
+  margin-right: 5%;
+  margin-left: 5%;
+  display: flex;
+  justify-content: center;
+  align-self: center;
+  width: 90%;
+  height: 70%;
+}
